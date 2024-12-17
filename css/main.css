@@ -14,7 +14,7 @@ body {
 }
 
 img {
-    max-width: 50%;
+    max-width: 100%;
     height: auto;
     width: auto;
 }
@@ -28,6 +28,38 @@ a:hover {
     color: darkmagenta;
 }
 
+
+.name-title p {
+    font-size: 1rem;
+    color: #777;
+}
+
+.section {
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-size: 1.5rem;
+    color: #444;
+    margin-bottom: 10px;
+}
+
 ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 5px 0;
+}
+
+.footer {
     text-align: center;
+    margin-top: 30px;
+    font-size: 0.9rem;
+    color: #777;
+}
+
+.footer p {
+    margin: 5px 0;
 }
