@@ -14,7 +14,7 @@ body {
 }
 
 img {
-    max-width: 100%;
+    max-width: 50%;
     height: auto;
     width: auto;
 }
@@ -28,6 +28,6 @@ a:hover {
     color: darkmagenta;
 }
 
-.ul {
+ul {
     text-align: center;
 }
