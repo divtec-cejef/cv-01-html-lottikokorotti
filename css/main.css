@@ -15,15 +15,6 @@ img {
     height: auto;
 }
 
-a {
-    color: deeppink;
-    text-decoration: none;
-}
-
-a:hover {
-    color: darkmagenta;
-}
-
 .header {
     display: flex;
     align-items: center;
